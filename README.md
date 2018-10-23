@@ -17,7 +17,7 @@ npm install polybar-helpers --save
 
 ## Usage
 
-Conifg in polybar
+Config in polybar
 
 ```
 ; My Module
