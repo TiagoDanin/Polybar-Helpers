@@ -1,0 +1,25 @@
+{
+  "name": "polybar-helpers",
+  "version": "1.0.0",
+  "description": "[WIP] Polybar - Helpers to create plugin/module using NodeJS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TiagoDanin/Polybar-Helpers.git"
+  },
+  "author": "TiagoDanin <TiagoDanin@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TiagoDanin/Polybar-Helpers/issues"
+  },
+  "homepage": "https://github.com/TiagoDanin/Polybar-Helpers#readme",
+  "dependencies": {
+    "tail": "2.0.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "polybar",
+    "helpers",
+    "tail"
+  ]
+}
