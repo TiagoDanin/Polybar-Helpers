@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/TiagoDanin/Polybar-Helpers#readme",
   "dependencies": {
-    "tail": "2.0.0"
+    "tail": "2.0.1"
   },
   "devDependencies": {},
   "keywords": [
