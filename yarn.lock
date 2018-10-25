@@ -2,6 +2,6 @@
 # yarn lockfile v1
 
 
-tail@2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/tail/-/tail-2.0.0.tgz#ef16cd67fe4842c8c608571cf6228cf2fab6af2a"
+tail@2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/tail/-/tail-2.0.1.tgz#f4cd9d514512e77d0eb2aaacd5520d578fe20271"
