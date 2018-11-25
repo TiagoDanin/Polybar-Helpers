@@ -37,9 +37,9 @@ shellwords@^0.1.1:
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/shellwords/-/shellwords-0.1.1.tgz#d6b9181c1a48d397324c84871efbcfc73fc0654b"
 
-sleep@5.1.1:
-  version "5.1.1"
-  resolved "https://registry.yarnpkg.com/sleep/-/sleep-5.1.1.tgz#878fa1d44d08eeb0f26fb2018ef8629eb1a3ab94"
+sleep@5.2.3:
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/sleep/-/sleep-5.2.3.tgz#be8852dd8cf91c8f206d21d681c64754cbceb33c"
   dependencies:
     nan ">=2.5.1"
 
