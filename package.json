@@ -1,7 +1,7 @@
 {
   "name": "polybar-helpers",
   "main": "index.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Polybar - Helpers to create plugin/module using NodeJS",
   "author": {
     "name": "Tiago Danin",
@@ -32,8 +32,6 @@
     "package.json"
   ],
   "dependencies": {
-    "node-notifier": "5.3.0",
-    "polybar-helpers": "1.0.0",
     "tail": "2.0.1"
   },
   "devDependencies": {}
