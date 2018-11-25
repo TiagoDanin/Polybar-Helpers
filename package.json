@@ -1,25 +1,41 @@
 {
   "name": "polybar-helpers",
-  "version": "1.0.0",
-  "description": "[WIP] Polybar - Helpers to create plugin/module using NodeJS",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/TiagoDanin/Polybar-Helpers.git"
+  "version": "1.0.1",
+  "description": "Polybar - Helpers to create plugin/module using NodeJS",
+  "author": {
+    "name": "Tiago Danin",
+    "email": "TiagoDanin@outlook.com",
+    "url": "https://TiagoDanin.github.io"
   },
-  "author": "TiagoDanin <TiagoDanin@outlook.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/TiagoDanin/Polybar-Helpers/issues"
-  },
-  "homepage": "https://github.com/TiagoDanin/Polybar-Helpers#readme",
-  "dependencies": {
-    "tail": "2.0.0"
-  },
-  "devDependencies": {},
   "keywords": [
     "polybar",
     "helpers",
-    "tail"
-  ]
+    "tail",
+    "poly",
+    "bar"
+  ],
+  "scripts": {},
+  "private": false,
+  "repository": "https://github.com/TiagoDanin/Polybar-Helpers.git",
+  "homepage": "https://TiagoDanin.github.io/Polybar-Helpers",
+  "bugs": "https://github.com/TiagoDanin/Polybar-Helpers/issues",
+  "github": {
+    "name": "Polybar-Helpers",
+    "owner": "TiagoDanin"
+  },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js",
+    "package.json"
+  ],
+  "dependencies": {
+    "node-notifier": "5.3.0",
+    "polybar-helpers": "1.0.0",
+    "sleep": "5.1.1",
+    "tail": "2.0.0"
+  },
+  "devDependencies": {}
 }
