@@ -32,7 +32,7 @@
 		"package.json"
 	],
 	"dependencies": {
-		"tail": "2.0.4"
+		"tail": "2.2.6"
 	},
 	"devDependencies": {}
 }
